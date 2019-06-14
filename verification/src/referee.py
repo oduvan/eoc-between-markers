@@ -1,4 +1,4 @@
-from checkio_referee import RefereeRank
+from checkio_referee import RefereeRank, ENV_NAME
 
 
 import settings_env
